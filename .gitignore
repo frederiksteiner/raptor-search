@@ -115,6 +115,7 @@ env.sh
 
 # Folders
 temp/
+data/
 
 # Spyder project settings
 .spyderproject
